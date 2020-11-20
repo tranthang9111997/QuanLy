@@ -109,3 +109,6 @@ D:\Linh Tinh\QuanLyNhanSu-main\obj\Debug\QuanLyNhanSu.pdb
 C:\Users\Bao Tran\Desktop\QuanLyNhanSuForm-main\bin\Debug\QuanLyNhanSu.exe.config
 C:\Users\Bao Tran\Desktop\QuanLyNhanSuForm-main\obj\Debug\QuanLyNhanSu.exe
 C:\Users\Bao Tran\Desktop\QuanLyNhanSuForm-main\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Bao Tran\Documents\Visual Studio 2015\Projects\QuanLy\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Bao Tran\Documents\Visual Studio 2015\Projects\QuanLy\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Bao Tran\Documents\Visual Studio 2015\Projects\QuanLy\obj\Debug\QuanLyNhanSu.pdb
